@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project simulates secure query generation for cloud storage, based on the research paper "Secure KNN Computation On Cloud" by Tikaram Sanyashi, Nirmal Kumar Boran, and Virendra Singh. The simulation is implemented using Flask-based APIs, with three microservices that mimic the roles of Query Users (QU), Data Owner (DO), and Cloud Service Provider (CSP).
+This project simulates secure query generation for cloud storage, based on the research paper "Secure KNN Computation On Cloud" by Tikaram Sanyashi, Nirmal Kumar Boran, and Virendra Singh. The project tries to simulated an encryption scheme using ASPE to preserve data and query privacy in cloud computing. All the mathematical logic explanations are directly taken from the research paper. The simulation is implemented using Flask-based APIs, with three microservices that mimic the roles of Query Users (QU), Data Owner (DO), and Cloud Service Provider (CSP).
 
 ## Project Structure
 
